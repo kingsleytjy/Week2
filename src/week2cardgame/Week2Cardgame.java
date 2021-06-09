@@ -6,7 +6,7 @@
 package week2cardgame;
 
 /**
- *
+ * date
  * @author Kingsley Tan
  */
 public class Week2Cardgame {
